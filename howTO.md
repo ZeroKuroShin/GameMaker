@@ -1,0 +1,2 @@
+First step: You have to create a capsule or object ( Character ), and then add the "PlayerMovement" script, if you dont know in the blank "Camera" drag the MainCamera to there, 
+Secondly, Add the "Equipping" script for items there are 3 slot in that code, Last but not least if you want add footsteps then add, how? create a empty object, put at the bottom on your Character, and add the script, audio listener ( add your footstep sound ), and done
